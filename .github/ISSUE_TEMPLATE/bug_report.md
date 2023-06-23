@@ -9,7 +9,7 @@ assignees: ''
 
 ## Bug Report
 
-**Reporter  ❗️**
+**Reporter: ❗️**
  @ksdhir
 
 **Describe the bug: ❗️**
@@ -30,7 +30,7 @@ A clear and concise description of what you expected to happen.
 **Actual behavior:  ❗️**
 A clear and concise description of what actually happened.
 
-**Possible Solution: **
+**Possible Solution:**
 If you have any ideas or suggestions on how to fix the bug, please mention them here.
 
 **Environment:**
