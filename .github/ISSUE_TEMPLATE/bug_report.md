@@ -1,18 +1,21 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug report for Kaos' ARC
 title: ''
 labels: ''
-assignees: ksdhir
+assignees: ''
 
 ---
 
 ## Bug Report
 
-**Describe the bug:**
+**Reporter  ❗️**
+ @ksdhir
+
+**Describe the bug: ❗️**
 A clear and concise description of what the bug is.
 
-**Steps to reproduce:**
+**Steps to reproduce: ❗️**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -21,14 +24,14 @@ A clear and concise description of what the bug is.
 **Screenshots or Video**
 If applicable, add screenshots / video to help explain your problem.
 
-**Expected behavior:**
+**Expected behavior:  ❗️**
 A clear and concise description of what you expected to happen.
 
-**Actual behavior:**
+**Actual behavior:  ❗️**
 A clear and concise description of what actually happened.
 
-**Screenshots/Code Snippets:**
-If applicable, add screenshots or code snippets to help explain the problem.
+**Possible Solution: **
+If you have any ideas or suggestions on how to fix the bug, please mention them here.
 
 **Environment:**
 - Device & Operating System:
@@ -39,12 +42,7 @@ If applicable, add screenshots or code snippets to help explain the problem.
 **Additional context:**
 Add any other context about the problem here.
 
-**Possible Solution:**
-If you have any ideas or suggestions on how to fix the bug, please mention them here.
-
-**Related Issues:**
-List any related issues or pull requests from the repository, if applicable.
-
-**Follow up checklist:**
-[ ] Add Assignee
-[ ] Label priority ( priority-low, priority-medium, priority-high )
+**Follow up checklist:  ❗️**
+- [ ]  Add Assignee
+- [ ]  Label priority ( priority-low, priority-medium, priority-high )
+- [ ]  Label Milestone ( Alpha, Beta  )
